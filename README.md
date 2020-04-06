@@ -1,10 +1,3 @@
-> ### Although we do this for 💕 of 🕹️
-> **We Also Like Coffee!**
-> *Please Consider Supporting*
-> [![Support](https://raw.githubusercontent.com/retro-esp32/RetroESP32/master/Assets/sponsor.jpg)](https://github.com/sponsors/retro-esp32)
-
------
-
 # Retro Odroid Go Firmware
 > Something a little different
 
@@ -38,7 +31,11 @@ This project is licensed under the Creative Commons Attribution Share Alike 4.0 
 * [othercrashoverride](https://github.com/othercrashoverride)
 
 
-### Support
-> We Like Coffee!
+-----
 
-[![Support](https://raw.githubusercontent.com/retro-esp32/RetroESP32/master/Assets/sponsor.jpg)](https://github.com/sponsors/32teeth)
+> ## Although we do this for 💕 of 🕹️
+> **We Also Like Coffee!**
+> *Please Consider Supporting*<br>
+> [![Support](https://raw.githubusercontent.com/retro-esp32/RetroESP32/master/Assets/sponsor.jpg)](https://github.com/sponsors/retro-esp32)
+
+-----
